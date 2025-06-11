@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Demo ring try on feature using [hand detection of mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) and 3D (.obj) object drawing. Native Screen trigger approach
 
 # Getting Started
 
