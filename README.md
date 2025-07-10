@@ -1,4 +1,4 @@
-Demo ring try on feature using [hand detection of mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) and 3D (.obj) object drawing. Native Screen trigger approach
+Demo ring try on feature using [hand detection of mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) and 3D (.obj) object drawing. Native Screen trigger approach.
 
 # Demo
 - Android: [![Watch the video](https://img.youtube.com/vi/J2xDs8dwbtE/0.jpg)](https://www.youtube.com/watch?v=J2xDs8dwbtE)
